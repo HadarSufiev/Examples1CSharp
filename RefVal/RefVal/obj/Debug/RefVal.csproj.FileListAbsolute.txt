@@ -1,0 +1,7 @@
+C:\Users\הדר סופיוב\source\repos\RefVal\RefVal\bin\Debug\RefVal.exe.config
+C:\Users\הדר סופיוב\source\repos\RefVal\RefVal\bin\Debug\RefVal.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\RefVal\bin\Debug\RefVal.pdb
+C:\Users\הדר סופיוב\source\repos\RefVal\RefVal\obj\Debug\RefVal.csprojAssemblyReference.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\RefVal\obj\Debug\RefVal.csproj.CoreCompileInputs.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\RefVal\obj\Debug\RefVal.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\RefVal\obj\Debug\RefVal.pdb

@@ -1,0 +1,7 @@
+C:\Users\הדר סופיוב\source\repos\RefVal\RandomAndArray\bin\Debug\RandomAndArray.exe.config
+C:\Users\הדר סופיוב\source\repos\RefVal\RandomAndArray\bin\Debug\RandomAndArray.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\RandomAndArray\bin\Debug\RandomAndArray.pdb
+C:\Users\הדר סופיוב\source\repos\RefVal\RandomAndArray\obj\Debug\RandomAndArray.csprojAssemblyReference.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\RandomAndArray\obj\Debug\RandomAndArray.csproj.CoreCompileInputs.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\RandomAndArray\obj\Debug\RandomAndArray.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\RandomAndArray\obj\Debug\RandomAndArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\הדר סופיוב\source\repos\RefVal\RefOutParams\bin\Debug\RefOutParams.exe.config
+C:\Users\הדר סופיוב\source\repos\RefVal\RefOutParams\bin\Debug\RefOutParams.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\RefOutParams\bin\Debug\RefOutParams.pdb
+C:\Users\הדר סופיוב\source\repos\RefVal\RefOutParams\obj\Debug\RefOutParams.csprojAssemblyReference.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\RefOutParams\obj\Debug\RefOutParams.csproj.CoreCompileInputs.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\RefOutParams\obj\Debug\RefOutParams.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\RefOutParams\obj\Debug\RefOutParams.pdb

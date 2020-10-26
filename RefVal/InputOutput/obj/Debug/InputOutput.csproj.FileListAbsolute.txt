@@ -1,0 +1,7 @@
+C:\Users\הדר סופיוב\source\repos\RefVal\InputOutput\obj\Debug\InputOutput.csprojAssemblyReference.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\InputOutput\obj\Debug\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\InputOutput\bin\Debug\InputOutput.exe.config
+C:\Users\הדר סופיוב\source\repos\RefVal\InputOutput\bin\Debug\InputOutput.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\InputOutput\bin\Debug\InputOutput.pdb
+C:\Users\הדר סופיוב\source\repos\RefVal\InputOutput\obj\Debug\InputOutput.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\InputOutput\obj\Debug\InputOutput.pdb

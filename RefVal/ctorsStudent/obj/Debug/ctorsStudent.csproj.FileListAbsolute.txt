@@ -1,0 +1,7 @@
+C:\Users\הדר סופיוב\source\repos\RefVal\ctorsStudent\bin\Debug\ctorsStudent.exe.config
+C:\Users\הדר סופיוב\source\repos\RefVal\ctorsStudent\bin\Debug\ctorsStudent.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\ctorsStudent\bin\Debug\ctorsStudent.pdb
+C:\Users\הדר סופיוב\source\repos\RefVal\ctorsStudent\obj\Debug\ctorsStudent.csprojAssemblyReference.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\ctorsStudent\obj\Debug\ctorsStudent.csproj.CoreCompileInputs.cache
+C:\Users\הדר סופיוב\source\repos\RefVal\ctorsStudent\obj\Debug\ctorsStudent.exe
+C:\Users\הדר סופיוב\source\repos\RefVal\ctorsStudent\obj\Debug\ctorsStudent.pdb
